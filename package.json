@@ -1,0 +1,23 @@
+{
+  "name": "inception",
+  "version": "1.0.0",
+  "description": "This is namaste react by Akshay Saini",
+  "keywords": [
+    "react",
+    "namaste",
+    "react"
+  ],
+  "license": "ISC",
+  "author": "akshay saini",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  }
+}
