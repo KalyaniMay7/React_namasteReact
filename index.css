@@ -56,3 +56,8 @@ width:200px;
     object-fit:cover;
     display:block;
 }
+
+.filter-btn{
+    margin:10px;
+    cursor:pointer;
+}
